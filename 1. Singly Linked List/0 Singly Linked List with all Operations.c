@@ -8,7 +8,7 @@ Author     : Bipul Islam
 #include<stdio.h>
 #include<stdlib.h>
 
-struct node
+struct node//Linked List node
 {
 	int info;
 	struct node *link;
